@@ -4809,7 +4809,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/20266893?v=4",
       "profile": "http://www.technobunnies.com",
       "contributions": [
-        "doc"
+        "doc",
+        "maintenance"
       ]
     },
     {
@@ -11624,6 +11625,24 @@
       "contributions": [
         "content",
         "doc"
+      ]
+    },
+    {
+      "login": "shubhisaran",
+      "name": "Shubhi Saran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113500663?v=4",
+      "profile": "https://github.com/shubhisaran",
+      "contributions": [
+        "tool"
+      ]
+    },
+    {
+      "login": "bh2smith",
+      "name": "Benjamin Smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11778116?v=4",
+      "profile": "https://github.com/bh2smith",
+      "contributions": [
+        "bug"
       ]
     }
   ],
