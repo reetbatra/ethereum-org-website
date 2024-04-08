@@ -10984,7 +10984,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/9151261?v=4",
       "profile": "https://github.com/aslikaya",
       "contributions": [
-        "doc"
+        "doc",
+        "maintenance"
       ]
     },
     {
@@ -11643,6 +11644,42 @@
       "profile": "https://github.com/bh2smith",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "Hector-Chong",
+      "name": "Héctor Chong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12469549?v=4",
+      "profile": "http://hector.im",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "nakmr",
+      "name": "nace.kimura",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145886319?v=4",
+      "profile": "https://github.com/nakmr",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "WuRuiLei2023",
+      "name": "WuRuiLei2023",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149141323?v=4",
+      "profile": "https://github.com/WuRuiLei2023",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "radeksvarz",
+      "name": "Radek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6020891?v=4",
+      "profile": "http://www.edukids.cz",
+      "contributions": [
+        "eventOrganizing"
       ]
     }
   ],
